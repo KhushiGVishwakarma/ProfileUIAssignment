@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme using Material 3 -->
+    <style name="Theme.ProfileApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#1F1F1F</item>
+        <item name="android:colorBackground">#121212</item> <!-- Use android:colorBackground -->
+    </style>
+</resources>
